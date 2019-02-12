@@ -1,0 +1,1 @@
+<input type='hidden' name='<?=$options[1]?>' value='<?=$options[2];?>' />
